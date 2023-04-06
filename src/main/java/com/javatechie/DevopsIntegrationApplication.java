@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "Hello!!!";
+		return "This a test being deployed by CICD pipeline on k8s!";
 	}
 
 	public static void main(String[] args) {
