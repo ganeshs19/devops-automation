@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "no professionalism at office please niggz!";
+		return "nbhai no racism ye kab dikha kisiko in future cancel ho jayega for no reason";
 	}
 
 	public static void main(String[] args) {
