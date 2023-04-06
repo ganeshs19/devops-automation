@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "professionalism at office please";
+		return "no professionalism at office please";
 	}
 
 	public static void main(String[] args) {
