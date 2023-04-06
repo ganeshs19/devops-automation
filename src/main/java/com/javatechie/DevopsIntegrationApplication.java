@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "Hello this is a test being deployed using a pipeline.";
+		return "Hello!!!";
 	}
 
 	public static void main(String[] args) {
